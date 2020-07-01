@@ -184,8 +184,11 @@ body{
 .workingTechnologies img {
     height: 40px;
     margin: 0 10px;
+    max-width: 60px;
 }
-
+.workingTechnologies img.jsLog {
+    width: 55px;
+}
 /******** Print Mode **********/
 @media print {
     body {-webkit-print-color-adjust: exact;}
