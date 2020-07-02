@@ -189,6 +189,30 @@ body{
 .workingTechnologies img.jsLog {
     width: 55px;
 }
+.printBoktobbo {
+    position: fixed;
+    left: 0;
+    top: 30%;
+    padding: 20px;
+    width: 167px;
+}
+
+.printBoktobbo button {
+    color: #fff;
+    border-radius: 3px;
+    background: #333;
+    padding: 7px 6px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+}
+
+.printBoktobbo p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 10px;
+    color: #666;
+}
 /******** Print Mode **********/
 @media print {
     body {-webkit-print-color-adjust: exact;}
