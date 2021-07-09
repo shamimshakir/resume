@@ -212,6 +212,25 @@ body{
     border: none;
 }
 
+.singleExp h2 {
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 12px;
+    margin-bottom: 0;
+}
+
+.singleExp ul {
+    padding-left: 11px;
+    list-style: circle;
+}
+
+.singleExp ul li {
+    font-size: 14px;
+    line-height: 20px;
+    margin-left: 10px;
+    color: #444;
+}
+
 .printBoktobbo p {
     font-size: 14px;
     line-height: 20px;
