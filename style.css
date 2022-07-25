@@ -107,16 +107,22 @@ body{
 .mainContentContent {
     padding: 35px;
 }
+
+.achievements {
+    margin-left: 17px;
+}
+
 .achievements h2 {
     margin-bottom: 4px;
     color: green;
+    font-weight: 500;
+    font-size: 13px;
+    margin-top: 9px;
+    font-style: italic;
 }
 
-.singleInfoArea  h2 {
-    font-size: 19px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    margin-bottom: 12px;
+.achievements ul li {
+    font-size: 13px;
 }
 
 .singleInfoArea {
@@ -214,13 +220,6 @@ body{
     font-size: 14px;
     cursor: pointer;
     border: none;
-}
-
-.singleExp h2 {
-    font-size: 12px;
-    font-weight: 600;
-    margin-top: 12px;
-    margin-bottom: 0;
 }
 
 .singleExp ul {
