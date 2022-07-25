@@ -107,6 +107,10 @@ body{
 .mainContentContent {
     padding: 35px;
 }
+.achievements h2 {
+    margin-bottom: 4px;
+    color: green;
+}
 
 .singleInfoArea  h2 {
     font-size: 19px;
