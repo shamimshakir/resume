@@ -47,7 +47,7 @@ body{
 }
 
 .sideBar {
-    background: #e1ce96;
+    background: #C5CAE9;
     padding: 10px 34px;
     position: relative;
 }
@@ -250,6 +250,17 @@ body{
     line-height: 20px;
     margin-top: 10px;
     color: #666;
+}
+.singleInfoArea .work_ext {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.singleInfoArea .work_ext p {
+    font-size: 15px;
+    font-style: italic;
+    color: #939393;
 }
 /******** Print Mode **********/
 @media print {
