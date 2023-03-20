@@ -146,11 +146,12 @@ body{
     background: #333333a6;
     transform: translate(2px, -50%);
 }
-.singleExp h3 {
+.singleExp h3 a {
     font-size: 16px;
     margin-bottom: 2px;
     margin-top: 16px;
     color: #353535;
+    text-decoration: none;
 }
 
 .singleExp h3 span {
