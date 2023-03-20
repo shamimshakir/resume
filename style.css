@@ -53,7 +53,7 @@ body{
 }
 
 .sideBarWidget {
-    margin-bottom: 25px;
+    margin-bottom: 15px;
 }
 
 .sideBarWidget h3 {
@@ -61,10 +61,6 @@ body{
     letter-spacing: 3px;
     font-weight: 600;
 }
-.sideBarWidget {
-    margin-bottom: 25px;
-}
-
 .sideBarWidget h3 {
     font-size: 16px;
     letter-spacing: 2px;
