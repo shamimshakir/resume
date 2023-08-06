@@ -96,8 +96,7 @@ body{
     align-items: center;
 }
 .mainContent {
-    display: flex;
-    margin-top: 25px;
+    display: flex; 
     position: relative;
 }
 .singleExp.edu h3 {
